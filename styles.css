@@ -1,0 +1,12 @@
+nav ul.nav {
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+}
+nav ul.nav li a {
+    display: block;
+    text-align: center;
+}
+body{
+    background-color: rosybrown;
+}

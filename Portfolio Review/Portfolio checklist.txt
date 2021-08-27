@@ -1,0 +1,28 @@
+Portfolio Requirements
+
+1. Online Portfolio (website or LinkedIn articles)
+2. Two Outside Projets 
+3. Schedule interview
+4. Have formal interview
+
+_Education and Career Letter (personal introduction, outline of present educational goals, entry level areer goal statement, long career statement *each 1 paragraph*
+_Practical Knowledge and skills Sections
+_Methods and Process  Articles 
+		_ Digital Design Processes are Not Stupid (DGM2240)
+		_ Interaction Design Concepts in Visual Interfaces (DGM2250)
+		_ Scripting for Interactive Engagement: Why the interface is a portal to discovery (DGM1600)
+		_ Why Adobe XD is My Go-to Tool for Creative Design? (Extra Curricular Work)
+_Design and Development Articles
+		_ Design Patterns and the Art of Consistency (Any Course)
+		_ Image Compression Techniques That Make You Look Like a Genius! (DGM2341)
+		_ Immersive Experiences are Critical to Engaging Participants (DGM2260)
+		_ Interactive Advertisements Can Change a Readers Mind (DGM2270)
+		_ Integrating ‘Interactive Objects’ into Productions to Increase Engagement (DGM2280)
+		_ Preparing for an Internship in Digital Product Design (Extra Curricular Work)
+_ Resume
+_ Extra Curricular Work
+_ Social Media
+_ Interview (must have a copy of their “unofficial” UVU transcript with them during the interview, or appropriately available virtually. Design 
+Terms Sheets, Style Guides, Validation & Design Guides, or other 
+course generated material, can also be shared as evidence of a students capabilities as referred to
+previously.)
